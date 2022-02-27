@@ -7,4 +7,3 @@ md = markdown
 <!-- cmd -->
 git init . -> initialize a respository(repo) aka project
 git add . or git add (file name) -> add all of the file and folder in the current directory
-haha
