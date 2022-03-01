@@ -30,3 +30,8 @@ Merging: merge everything from new branch to another branch:
         git merge feeature/newfeature
         =>merge branch "feature/newfeature" into 'main'
 
+git restore . -> to restore every file in the crrent directory
+git fetch -> to download the metadata of the online repo
+git status -> show the current status of the commit
+git pull -> to download file from the onl repo
+git push -> to upload file(s) to onl repo
